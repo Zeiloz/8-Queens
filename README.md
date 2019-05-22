@@ -1,7 +1,7 @@
 # 8-Queens
 Use Genetic Algorithms to solve 8 Queens problem
 
-Packages used required in this program: `numpy`, `random`, `matplotlib`
+Packages required in this program: `numpy`, `random`, `matplotlib`
 
 run `python3 queens.py` to execute program.
 

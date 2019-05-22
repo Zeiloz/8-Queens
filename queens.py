@@ -130,10 +130,6 @@ class queen_pop():
             self.fitness_avg= self.getFitnessAvg()
         return plot_data
 
-        
-    
-
-
 
 def main():
 
@@ -179,12 +175,6 @@ def main():
     #plt.legend(loc='upper left')
     #plt.savefig('mutaprob.png')
     return 0
-
-
-
-
-
-
 
 
 if __name__ == '__main__':
