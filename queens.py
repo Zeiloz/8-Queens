@@ -170,14 +170,14 @@ def main():
     #plt.legend(loc='upper left')
     #plt.savefig('foo.png')
 
-    plt.title("Fitness Average at each Iteration to solve 8-Queens")
-    plt.xlabel("Iterations")
-    plt.ylabel("Fitness Average")
-    plt.plot(plot_data4, label='population size = 100, gene mutation prob = 3%')
-    plt.plot(plot_data5, label='population size = 100, gene mutation prob = 7%')
-    plt.plot(plot_data6, label='population size = 100, gene mutation prob = 10%')
-    plt.legend(loc='upper left')
-    plt.savefig('mutaprob.png')
+    #plt.title("Fitness Average at each Iteration to solve 8-Queens")
+    #plt.xlabel("Iterations")
+    #plt.ylabel("Fitness Average")
+    #plt.plot(plot_data4, label='population size = 100, gene mutation prob = 3%')
+    #plt.plot(plot_data5, label='population size = 100, gene mutation prob = 7%')
+    #plt.plot(plot_data6, label='population size = 100, gene mutation prob = 10%')
+    #plt.legend(loc='upper left')
+    #plt.savefig('mutaprob.png')
     return 0
 
 
